@@ -2,7 +2,7 @@
 
 **DigiGadgets** is a full-featured, mobile-responsive e-commerce platform built with **Next.js**, **Node.js**, **MySQL**, and **Tailwind CSS**. It includes a powerful admin dashboard, product management tools, user authentication, and shopping features — all fully documented and manually tested using a waterfall-based software engineering process.
 
-![DigiGadgets Home Page](https://your-image-url/homepage.png)
+![DigiGadgets Home Page](./public/homepage.png)
 
 ---
 
@@ -30,14 +30,6 @@ The entire app was built following the **Waterfall model**, with full documentat
 * ✅ Integration & end-to-end testing
 * ✅ Error logging and documentation
 * ✅ Figma-based component hierarchy
-
-<details>
-<summary>📊 Click to view component hierarchy</summary>
-
-![Component System](https://your-image-url/component-system.png)
-
-</details>
-
 ---
 
 ### 📁 Project Structure
@@ -59,16 +51,13 @@ The entire app was built following the **Waterfall model**, with full documentat
 * ⚙️ Unit testing (72.8% error coverage)
 * 🔁 Integration testing (bottom-up approach)
 * ✅ End-to-end user scenario verification
-
-![Testing Summary](https://your-image-url/testing.png)
-
 ---
 
 ### 📷 Screenshots
 
 | 💻 Home Page                             | 🛍️ Shop Page                            | 📦 Product View                                |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------------- |
-| ![Home](https://your-image-url/home.png) | ![Shop](https://your-image-url/shop.png) | ![Product](https://your-image-url/product.png) |
+| ![Home](./public/homepage.png) | ![Shop](https://your-image-url/shop.png) | ![Product](https://your-image-url/product.png) |
 
 | 🔐 Login                                   | 📋 Admin Orders                              | 🛒 Checkout                                      |
 | ------------------------------------------ | -------------------------------------------- | ------------------------------------------------ |
