@@ -2,7 +2,7 @@
 
 **DigiGadgets** is a full-featured, mobile-responsive e-commerce platform built with **Next.js**, **Node.js**, **MySQL**, and **Tailwind CSS**. It includes a powerful admin dashboard, product management tools, user authentication, and shopping features — all fully documented and manually tested using a waterfall-based software engineering process.
 
-![DigiGadgets Home Page](./public/homepage.png)
+![DigiGadgets Home Page](./public/home.png)
 
 ---
 
