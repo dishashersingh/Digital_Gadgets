@@ -57,11 +57,11 @@ The entire app was built following the **Waterfall model**, with full documentat
 
 | 💻 Home Page                             | 🛍️ Shop Page                            | 📦 Product View                                |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------------- |
-| ![Home](./public/homepage.png) | ![Shop](.public/shop.png) | ![Product](.public/featured.png) |
+| ![Home](./public/homepage.png) | ![Shop](./public/shop.png) | ![Product](./public/featured.png) |
 
-| 🔐 Login                                   | 📋 catalog                            | 🛒 Checkout                                      |
+| 🔐 Login                                   | 📋 cart                            | 🛒 Checkout                                      |
 | ------------------------------------------ | -------------------------------------------- | ------------------------------------------------ |
-| ![Login](.public/login.png) | ![Orders](.public/catalog.png) | ![Checkout](./public/chechout.png) |
+| ![Login](./public/login.png) | ![Orders](./public/cart.png) | ![Checkout](./public/chechout.png) |
 
 ---
 
